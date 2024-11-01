@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\webqlsach_th\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\bookstore\\sptheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\bookstore\\sptheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\views\\bookstore\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\views\\bookstore\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|d:\\my project\\vstudio\\6151071013_lab1_n1\\webqlsach_th\\webqlsach_th\\content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBA83264-B013-4776-9122-09224A3F3A6A}|WebQLSach_TH\\WebQLSach_TH.csproj|solutionrelative:webqlsach_th\\content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\BookStore\\Index.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\Index.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\BookStore\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:47:04.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:45:56.926Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:51:01.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:50:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SPTheoChuDe.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\SPTheoChuDe.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\BookStore\\SPTheoChuDe.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\SPTheoChuDe.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\BookStore\\SPTheoChuDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:29:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStoreController.cs",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Controllers\\BookStoreController.cs",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Controllers\\BookStoreController.cs",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Controllers\\BookStoreController.cs",
+              "RelativeToolTip": "WebQLSach_TH\\Controllers\\BookStoreController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:57:28.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChuDe.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\ChuDe.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\BookStore\\ChuDe.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\ChuDe.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\BookStore\\ChuDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:22:16.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhaXuatBan.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:36:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "templatemo_style.css",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Content\\templatemo_style.css",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Content\\templatemo_style.css",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Content\\templatemo_style.css",
+              "RelativeToolTip": "WebQLSach_TH\\Content\\templatemo_style.css",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAIwOwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T13:42:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SPTheoNXB.cshtml",
+              "DocumentMoniker": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "RelativeDocumentMoniker": "WebQLSach_TH\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "ToolTip": "D:\\My Project\\VStudio\\6151071013_LAB1_N1\\WebQLSach_TH\\WebQLSach_TH\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "RelativeToolTip": "WebQLSach_TH\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:35:22.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
